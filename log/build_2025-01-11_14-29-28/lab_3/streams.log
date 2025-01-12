@@ -1,0 +1,33 @@
+[1.884s] Invoking command in '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/src/lab_3': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_3 build --build-base /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build install --record /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/install.log --single-version-externally-managed install_data
+[2.352s] running egg_info
+[2.353s] creating ../../build/lab_3/lab_3.egg-info
+[2.384s] writing ../../build/lab_3/lab_3.egg-info/PKG-INFO
+[2.385s] writing dependency_links to ../../build/lab_3/lab_3.egg-info/dependency_links.txt
+[2.385s] writing requirements to ../../build/lab_3/lab_3.egg-info/requires.txt
+[2.385s] writing top-level names to ../../build/lab_3/lab_3.egg-info/top_level.txt
+[2.385s] writing manifest file '../../build/lab_3/lab_3.egg-info/SOURCES.txt'
+[2.453s] reading manifest file '../../build/lab_3/lab_3.egg-info/SOURCES.txt'
+[2.454s] adding license file 'LICENSE'
+[2.454s] writing manifest file '../../build/lab_3/lab_3.egg-info/SOURCES.txt'
+[2.455s] running build
+[2.455s] running build_py
+[2.456s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build
+[2.456s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build/lib
+[2.456s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build/lib/lab_3
+[2.456s] copying lab_3/__init__.py -> /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build/lib/lab_3
+[2.457s] running install
+[2.468s] running install_lib
+[2.497s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages/lab_3
+[2.498s] copying /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build/lib/lab_3/__init__.py -> /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages/lab_3
+[2.498s] byte-compiling /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages/lab_3/__init__.py to __init__.cpython-312.pyc
+[2.498s] running install_data
+[2.499s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/share/ament_index
+[2.499s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/share/ament_index/resource_index
+[2.499s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/share/ament_index/resource_index/packages
+[2.499s] copying resource/lab_3 -> /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/share/ament_index/resource_index/packages
+[2.500s] copying package.xml -> /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/share/lab_3
+[2.500s] running install_egg_info
+[2.541s] Copying ../../build/lab_3/lab_3.egg-info to /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages/lab_3-0.0.0-py3.12.egg-info
+[2.542s] running install_scripts
+[2.784s] writing list of installed files to '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/install.log'
+[2.839s] Invoked command in '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/src/lab_3' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_3 build --build-base /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build install --record /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/install.log --single-version-externally-managed install_data

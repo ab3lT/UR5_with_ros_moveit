@@ -1,0 +1,22 @@
+[1.743s] Invoking command in '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/src/robot_arm_urdf': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/robot_arm_urdf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_arm_urdf build --build-base /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/build install --record /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/install.log --single-version-externally-managed install_data
+[2.214s] running egg_info
+[2.256s] writing ../../build/robot_arm_urdf/robot_arm_urdf.egg-info/PKG-INFO
+[2.256s] writing dependency_links to ../../build/robot_arm_urdf/robot_arm_urdf.egg-info/dependency_links.txt
+[2.257s] writing requirements to ../../build/robot_arm_urdf/robot_arm_urdf.egg-info/requires.txt
+[2.257s] writing top-level names to ../../build/robot_arm_urdf/robot_arm_urdf.egg-info/top_level.txt
+[2.318s] reading manifest file '../../build/robot_arm_urdf/robot_arm_urdf.egg-info/SOURCES.txt'
+[2.319s] adding license file 'LICENSE'
+[2.320s] writing manifest file '../../build/robot_arm_urdf/robot_arm_urdf.egg-info/SOURCES.txt'
+[2.320s] running build
+[2.320s] running build_py
+[2.320s] running install
+[2.331s] running install_lib
+[2.362s] running install_data
+[2.363s] creating /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/robot_arm_urdf/share/robot_arm_urdf/launch
+[2.363s] copying launch/display.launch.py -> /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/robot_arm_urdf/share/robot_arm_urdf/launch
+[2.363s] running install_egg_info
+[2.396s] removing '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/robot_arm_urdf/lib/python3.12/site-packages/robot_arm_urdf-0.0.0-py3.12.egg-info' (and everything under it)
+[2.396s] Copying ../../build/robot_arm_urdf/robot_arm_urdf.egg-info to /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/robot_arm_urdf/lib/python3.12/site-packages/robot_arm_urdf-0.0.0-py3.12.egg-info
+[2.397s] running install_scripts
+[2.627s] writing list of installed files to '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/install.log'
+[2.730s] Invoked command in '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/src/robot_arm_urdf' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/robot_arm_urdf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_arm_urdf build --build-base /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/build install --record /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/robot_arm_urdf/install.log --single-version-externally-managed install_data

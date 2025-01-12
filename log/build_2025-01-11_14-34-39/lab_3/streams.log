@@ -1,0 +1,20 @@
+[1.867s] Invoking command in '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/src/lab_3': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_3 build --build-base /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build install --record /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/install.log --single-version-externally-managed install_data
+[2.330s] running egg_info
+[2.363s] writing ../../build/lab_3/lab_3.egg-info/PKG-INFO
+[2.363s] writing dependency_links to ../../build/lab_3/lab_3.egg-info/dependency_links.txt
+[2.364s] writing requirements to ../../build/lab_3/lab_3.egg-info/requires.txt
+[2.364s] writing top-level names to ../../build/lab_3/lab_3.egg-info/top_level.txt
+[2.427s] reading manifest file '../../build/lab_3/lab_3.egg-info/SOURCES.txt'
+[2.428s] adding license file 'LICENSE'
+[2.428s] writing manifest file '../../build/lab_3/lab_3.egg-info/SOURCES.txt'
+[2.429s] running build
+[2.429s] running build_py
+[2.429s] running install
+[2.441s] running install_lib
+[2.472s] running install_data
+[2.472s] running install_egg_info
+[2.506s] removing '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages/lab_3-0.0.0-py3.12.egg-info' (and everything under it)
+[2.506s] Copying ../../build/lab_3/lab_3.egg-info to /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages/lab_3-0.0.0-py3.12.egg-info
+[2.507s] running install_scripts
+[2.747s] writing list of installed files to '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/install.log'
+[2.803s] Invoked command in '/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/src/lab_3' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/install/lab_3/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab_3 build --build-base /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/build install --record /home/abel/CODE/AAiT/robotics/UR5_with_ros_moveit/build/lab_3/install.log --single-version-externally-managed install_data
